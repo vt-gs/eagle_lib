@@ -1,2 +1,2 @@
 # eagle_lib
-VTGS Eagle Libraries
+VTGS EagleCAD Libraries
