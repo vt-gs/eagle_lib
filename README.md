@@ -1,2 +1,2 @@
 # eagle_lib
-Eagle Libraries
+VTGS Eagle Libraries
